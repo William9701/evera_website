@@ -57,4 +57,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main branch.
 
-Explore the Evara E-Commerce Website, provide feedback, and consider contributing to its development. Thank you for checking out the repository!!!!!.
+Explore the Evara E-Commerce Website, provide feedback, and consider contributing to its development. Thank you for checking out the repository!!!!!!
